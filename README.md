@@ -28,3 +28,24 @@ Este script simples em Python solicita uma **string** e um **número inteiro** a
 ```bash
 python repetidor.py
 ```
+
+# 3- ➕ Calculadora Simples
+
+Este script em Python realiza operações matemáticas básicas entre dois números fornecidos pelo usuário.
+
+## 🛠️ Funcionalidades
+
+- Soma (`+`)
+- Subtração (`-`)
+- Multiplicação (`*`)
+- Divisão (`/`)
+
+## 🚀 Como usar
+
+1. Instale o Python (versão 3.x).
+2. Salve o código como `calculadora.py`.
+3. No terminal, execute:
+
+```bash
+python calculadora.py
+```
