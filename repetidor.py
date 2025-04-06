@@ -5,8 +5,7 @@ texto = input("Digite uma palavra ou frase: ")
 vezes = int(input("Digite um número inteiro: "))
 
 # Repete a string o número de vezes informado
-montagem = texto + " "
-resultado = montagem * vezes
+resultado = (texto + " ") * vezes
 
 # Exibe o resultado
 print(resultado)
