@@ -1,6 +1,6 @@
 # resolvendo_codigos_py_copilot
 
-# 🧩 Concatenador de Informações de Usuários
+# 1- 🧩 Concatenador de Informações de Usuários
 
 Este é um script Python simples que solicita ao usuário a entrada de dois nomes (ou outras informações) e concatena os dados em uma única string para exibição.
 
@@ -12,3 +12,19 @@ Este é um script Python simples que solicita ao usuário a entrada de dois nome
 
 ```bash
 python concatenador.py
+```
+
+
+# 2- 🔁 Repetidor de String
+
+Este script simples em Python solicita uma **string** e um **número inteiro** ao usuário, e repete a string o número de vezes informado.
+
+## 🚀 Como usar
+
+1. Certifique-se de que o Python (versão 3.x) está instalado em seu computador.
+2. Salve o código em um arquivo chamado, por exemplo, `repetidor.py`.
+3. Execute o script pelo terminal ou prompt de comando com:
+
+```bash
+python repetidor.py
+```
